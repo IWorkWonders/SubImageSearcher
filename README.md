@@ -38,3 +38,9 @@
 
 # **Demo Video**
 [![PDF search](http://img.youtube.com/vi/N9mFJRUvVsw/0.jpg)](http://www.youtube.com/watch?v=N9mFJRUvVsw "Sub Image Search PDF")
+
+
+# For customizing the solution to meet your needs, contact me @:
+- IWorkWondersLabs@gmail.com
+- Leave a note here.
+- Available for contracts & collaboration and hire.
