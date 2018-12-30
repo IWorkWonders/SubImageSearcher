@@ -40,7 +40,17 @@
 [![PDF search](http://img.youtube.com/vi/N9mFJRUvVsw/0.jpg)](http://www.youtube.com/watch?v=N9mFJRUvVsw "Sub Image Search PDF")
 
 
+# Other projects I am working on includes:
+- Optical Character Recognition of PDF files/Images.
+- Natural Language ToolKit, Sentiment Analysis for Marketing.
+- Sentiment Analysis for Emails.
+- Facial recognition and detection in PDF Files.
+- Face ID implementation.
+- Face Emotion detection.
+- Data visualization.
+
+
 # For customizing the solution to meet your needs, contact me @:
-- IWorkWondersLabs@gmail.com
+- Email @ [IWorkWondersLabs@gmail.com]
 - Leave a note here.
-- Available for contracts & collaboration and hire.
+- Available for contracts, consultation & hire.
