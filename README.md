@@ -8,8 +8,7 @@
 
 ![](https://github.com/IWorkWonders/SubImageSearcher/blob/master/LastPage/SIS_MAIN_PAGE.png?raw=true)
 
-**Features**
-
+# Features
 
 # Search for sub image/logo/pattern in PDF documents.
 - Includes search in header, footer,
