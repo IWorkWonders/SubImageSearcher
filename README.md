@@ -1,6 +1,4 @@
-SIS - Sub Image Searcher
-Developed by Bhavesh Agarwal
-
+# Sub Image Searcher
 
 - A complete solution tool with GUI to search for patterns (logos/templates) in PDF files and report the findings. 
 - A very useful tool for re-branding corporate projects to check for the reminiscence of logos in documentations.
